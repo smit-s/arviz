@@ -1,0 +1,17 @@
+
+.. _mpl_plot_hpd:
+
+
+Plot HPD
+========
+
+
+
+.. image:: _images/mpl_plot_hpd.png
+
+**Python source code:** :download:`[download source: mpl_plot_hpd.py]<mpl_plot_hpd.py>`
+
+**API documentation:** `plot_hpd <../../generated/arviz.plot_hpd>`_ 
+
+.. literalinclude:: mpl_plot_hpd.py
+    :lines: 7-
